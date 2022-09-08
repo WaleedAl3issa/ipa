@@ -9,13 +9,13 @@
   "apps": [
     {
       "name": "TikTok WF",
-      "subtitle": "Instagram",
-      "bundleIdentifier": "com.burbn.instagram",
+      "subtitle": "TikTok WF",
+      "bundleIdentifier": "com.ss.iphone.ugc.Ame",
       "developerName": "Emad Mohammed",
       "version": "235.1",
       "versionDate": "2022-5",
       "versionDescription": "",
-      "downloadURL": "https://ipa-plus.net/admin/FilesIPA/SignAPI/28078826763193d3f34318/28078826763193d3f34318-10134.plist",
+      "downloadURL": "https://ipa-plus.net/admin/FilesIPA/IpaApp/28078826763193d3f34318.ipa",
       "localizedDescription": "Plus app 2",
       "iconURL": "https://ipa-plus.net/images/ipa_EmadMohammed_Change_1491.png",
       "size": "1024"
