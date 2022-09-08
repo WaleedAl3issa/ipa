@@ -2,7 +2,7 @@
   "name": "ipa",
   "Description": "تجربة",
   "identifier": "com.ipaplus.test",
-  "iconURL": "https://connect.omdda.com/SeIPA/icon/favicon.png",
+  "iconURL": "https://ipa-plus.net/admin/uploads/logo.jpeg",
   "sourceURL": "https://waleedal3issa.github.io/ipa/appss.json",
   "Owner": "WALEEDAL3iSSi",
   "allowed": "yes",
@@ -17,7 +17,7 @@
       "versionDescription": "",
       "downloadURL": "https://ipa-plus.net/admin/FilesIPA/IpaApp/28078826763193d3f34318.ipa",
       "localizedDescription": "Plus app 2",
-      "iconURL": "https://connect.omdda.com/SeIPA/icon/instagram.png?time=1662600983",
+      "iconURL": "https://ipa-plus.net/images/ipa_EmadMohammed_Change_1491.png",
       "size": "1024"
     },
   ]
